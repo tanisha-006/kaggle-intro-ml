@@ -1,2 +1,3 @@
 # kaggle-intro-ml
-Kaggle Intro to Machine Learning exercises – Day 1 notebooks
+Day 1: Ran Kaggle Intro to ML home-data exercise notebook.
+Status: Completed setup and basic model training
